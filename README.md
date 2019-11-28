@@ -6,9 +6,7 @@ This app use a get request to https://api.hgbrasil.com/finance?key=your_key
 
 ## Screenshot
 
-![Screenshoy1 | 20%](https://github.com/ViniciusSilveiraAlves/currency_converter/blob/master/image1.jpeg)
-
-
+<img src="https://github.com/ViniciusSilveiraAlves/currency_converter/blob/master/image1.jpeg" width="400" height="600">
 
 A few resources to get you started if this is your first Flutter project:
 
