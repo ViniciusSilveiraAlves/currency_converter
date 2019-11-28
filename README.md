@@ -4,7 +4,7 @@ My first project using Flutter, this app get the money value on web apis and con
 
 ## Screenshot
 
-![Screenshoy1](https://github.com/ViniciusSilveiraAlves/currency_converter/blob/master/image1.jpeg)
+![Screenshoy1 | 200x100, 20%](https://github.com/ViniciusSilveiraAlves/currency_converter/blob/master/image1.jpeg)
 
 
 
