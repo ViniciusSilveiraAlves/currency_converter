@@ -1,10 +1,12 @@
-# primeiro_projeto
+# Currency Converter
 
-A new Flutter application.
+My first project using Flutter, this app get the money value on web apis and convert using between R$ ( Brazilian Currency) -> US$ ( American Dollar) -> € (EUR) -> ₿ (BitCoin)
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![Screenshoy1](https://github.com/ViniciusSilveiraAlves/currency_converter/blob/master/image1.jpeg)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
