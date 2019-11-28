@@ -2,9 +2,11 @@
 
 My first project using Flutter, this app get the money value on web apis and convert using between R$ ( Brazilian Currency) -> US$ ( American Dollar) -> € (EUR) -> ₿ (BitCoin)
 
+This app use a get request to https://api.hgbrasil.com/finance?key=your_key 
+
 ## Screenshot
 
-![Screenshoy1 | 200x100, 20%](https://github.com/ViniciusSilveiraAlves/currency_converter/blob/master/image1.jpeg)
+![Screenshoy1 | 20%](https://github.com/ViniciusSilveiraAlves/currency_converter/blob/master/image1.jpeg)
 
 
 
